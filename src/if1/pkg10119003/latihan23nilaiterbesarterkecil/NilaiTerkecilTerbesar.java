@@ -76,6 +76,7 @@ public class NilaiTerkecilTerbesar {
         NilaiTerkecilTerbesar data = new NilaiTerkecilTerbesar();
         data.masukkanData();        
         data.tampilNilai();        
+        System.out.println("Developed by : Ivan Faathirza");
     }
     
 }
